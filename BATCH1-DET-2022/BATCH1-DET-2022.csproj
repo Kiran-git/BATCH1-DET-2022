@@ -6,6 +6,7 @@
     <RootNamespace>BATCH1_DET_2022</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>BATCH1_DET_2022.testemp1</StartupObject>
   </PropertyGroup>
 
 </Project>
