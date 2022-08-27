@@ -16,7 +16,7 @@ namespace BATCH1_DET_2022
         int grosssal;
         int pf;
 
-        public emp1(int rollno, string name, string address, int pincode, int phoneno, int grosssal, int pf)
+        public emp1(int rollno, string name, string address, int pincode, int phoneno, int grosssal)
         {
             this.rollno = rollno;
             this.name = name;
