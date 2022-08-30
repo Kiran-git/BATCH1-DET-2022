@@ -27,6 +27,6 @@ using BATCH1_DET_2022;
     Animals.Add(new Cat());
 
     foreach (Animal a in Animals)
-        Console.WriteLine(a.ToString());
+        Console.WriteLine(a.ToString()); 
 }
 }
