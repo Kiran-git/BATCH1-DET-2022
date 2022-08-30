@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -6,7 +6,7 @@
     <RootNamespace>BATCH1_DET_2022</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BATCH1_DET_2022.testemp1</StartupObject>
+    <StartupObject>MyClass</StartupObject>
   </PropertyGroup>
 
 </Project>
