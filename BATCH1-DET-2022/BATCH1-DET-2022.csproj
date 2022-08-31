@@ -6,7 +6,7 @@
     <RootNamespace>BATCH1_DET_2022</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>BATCH1_DET_2022.Classmain1</StartupObject>
+    <StartupObject>BATCH1_DET_2022.iteratedemo</StartupObject>
   </PropertyGroup>
 
 </Project>
