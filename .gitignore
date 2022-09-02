@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/BATCH1-DET-2022/Employeee.cs
+/BATCH1-DET-2022/employeLinq.cs
