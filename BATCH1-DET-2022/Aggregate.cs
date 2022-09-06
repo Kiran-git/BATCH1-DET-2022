@@ -12,7 +12,7 @@ namespace BATCH1_DET_2022
         private static void Main() 
         {
             // SampleForAggregate();
-             Average();
+           //  Average();
             // Count();
             // Max();
             // Min();
